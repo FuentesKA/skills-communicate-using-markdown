@@ -17,3 +17,6 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ### For Step Two i was asked to add an image and to include the alt text.  
 #### > To add an alt text, it seems that you need to add one exclamation martk to begin with and then the brackets surrounding the alt text.
+
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
