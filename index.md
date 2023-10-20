@@ -10,13 +10,14 @@
 ### > First i opened pull request to create a pull request,
 ### > Then i went ahead and editted the index as told.
 ### > I was told to add headers and check the preview to see how it is viewed. 
-### > The hashtag is used for headers here; the amount of hashtags correlate with the size one hashtag being the biggest and six hashtags being the smallest.
+### > The hashtag is used for headers here; the amount of hashtags correlate with the size; one hashtag being the biggest and six hashtags being the smallest.
 ### > They told me to add a description of the changes I made so this is it.  
 
 # Step Two:
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-### For Step Two i was asked to add an image and to include the alt text.  
-#### > To add an alt text, it seems that you need to add one exclamation martk to begin with and then the brackets surrounding the alt text.
+### For Step Two i was asked to add an image and to include the alt text.
+### I decided to just use the image that they provided.
+#### > To add an alt text, it seems that you need to add one exclamation mark to begin with and then the brackets surrounding the alt text.
 
 ```
 $ git init
